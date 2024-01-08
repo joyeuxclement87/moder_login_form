@@ -6,27 +6,27 @@
 body{
     background-color:white;
     padding: 0 auto;
-    
+
 }
 .log-in-input{
     height: 450px;
     background-color: rgb(255, 255, 255);
     border: 2px bisque;
-    width: 550px;
+    width: 500px;
     text-align: center;
     margin: 0 auto;
     margin-left: 180px;
     position: absolute;
     top: 15%;
     border-radius: 10px;
-    box-shadow: 0 0px 4px rgba(98, 97, 97, 0.2); 
+    box-shadow: 0 0px 4px rgba(98, 97, 97, 0.2);
     padding: 20px;
 }
 
 .log-in-input .info{
     margin: 0px auto;
     text-align: left;
-    margin-left: 80px;
+    margin-left: 60px;
     margin-top: 30px;
     display: block;
 }
@@ -48,11 +48,11 @@ input[type="text"],input[type="password"]{
     box-shadow: 0 0px 2px rgb(124, 190, 255);
     height: 60px;
     width:300px;
-    border-radius: 5px; 
+    border-radius: 5px;
     border-left: 4px solid rgb(124, 190, 255) ;
     padding-left: 80px;
     outline-color: rgb(117, 175, 219);
-    
+
 }
 input::placeholder{
     color: rgb(144, 144, 144);
@@ -81,14 +81,14 @@ input[type="submit"]{
 }
 .check-rem{
     display: inline-block;
-    padding:  0px; 
+    padding:  0px;
 }
 .check-rem  label{
     position: absolute;
     left: 120px;
-   
 
-    
+
+
 }
 .check-rem a{
     float: right;
@@ -117,7 +117,7 @@ input[type="checkbox"] {
     outline: none;
     box-shadow: 0 0px 9px rgb(124, 190, 255);
     font-weight: 600;
-     
+
 }
 .sub-btn input:hover{
     background: #3e83bf;
@@ -137,7 +137,7 @@ input[type="checkbox"] {
     position: absolute;
     top: 11%;
     border-radius: 10px;
-    box-shadow: 0 0px 4px rgba(98, 97, 97, 0.2); 
+    box-shadow: 0 0px 4px rgba(98, 97, 97, 0.2);
     padding: 20px;
     left: 45%;
 }
@@ -149,7 +149,7 @@ input[type="checkbox"] {
     border-bottom: 2px solid white;
     outline: none;
     display: block;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .left-side #right{
     top: 16%;
@@ -185,13 +185,13 @@ input[type="checkbox"] {
    margin-top: 17px;
   position: absolute;
 
- 
+
  }
  .tems  .f .fa-microsoft{
     margin-left: -100px;
     margin-top: 17px;
    position: absolute;
- 
+
  }
  .tems .foo{
     border: 2px solid white;
@@ -217,13 +217,13 @@ input[type="checkbox"] {
  }
  .tems .foo a{
     position: absolute;
-    margin-top: 16px; 
+    margin-top: 16px;
     margin-left: -65px;
     font-family: sans-serif;
     color: white;
     text-decoration: none;
     text-transform: capitalize;
-    
+
  }
  .tems .fo{
     border: 2px solid white;
@@ -238,7 +238,7 @@ input[type="checkbox"] {
  }
  .tems .fo a{
     position: absolute;
-    margin-top: 16px; 
+    margin-top: 16px;
     margin-left: -65px;
     font-family: sans-serif;
     color: white;
@@ -259,7 +259,7 @@ input[type="checkbox"] {
  }
  .tems .f a{
     position: absolute;
-    margin-top: 16px; 
+    margin-top: 16px;
     margin-left: -65px;
     font-family: sans-serif;
     color: white;
@@ -287,8 +287,8 @@ input[type="checkbox"] {
     border: 0;
     color: rgb(39, 148, 211);
     outline: none;
-    box-shadow: 0 0px 9px rgba(61, 174, 255, 0.481); 
-    font-weight: 600; 
+    box-shadow: 0 0px 9px rgba(61, 174, 255, 0.481);
+    font-weight: 600;
 }
 .dont button:hover{
     background: #ffffff;;
